@@ -1,16 +1,23 @@
-## Hi there 👋
+# Merhaba, Ben İrem Sena Karay 👋
 
-<!--
-**iremsena6/iremsena6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Grafik Tasarımcı & Frontend Geliştirici**  
+💻 **HTML | CSS | Bootstrap | JavaScript**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projelerim
+
+### 📌 [Bootstrap İlk Ödev](https://iremsena6.github.io/bootstrapIlkOdev/)  
+📂 [Kaynak Kod](https://github.com/iremsena6/bootstrapIlkOdev)
+
+### 📌 [Bootstrap Ödev 2](https://iremsena6.github.io/bootstrapOdev2/)  
+📂 [Kaynak Kod](https://github.com/iremsena6/bootstrapOdev2)
+
+### 📌 [Bootstrap Ödev 3](https://iremsena6.github.io/bootstrapOdev3/)  
+📂 [Kaynak Kod](https://github.com/iremsena6/bootstrapOdev3)
+
+---
+
+## 📫 Bana Ulaşın
+📧 **E-posta:** [iremsenakaray830@gmail.com]  
+💼 **LinkedIn:** [www.linkedin.com/in/irem-sena-karay-5a6510259]
